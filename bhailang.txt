@@ -1,0 +1,17 @@
+
+hi bhai
+
+bhai ye hai a=0;
+jab tak bhai (a<10){
+a+=1;
+agar bhai (a%2==0){
+bol bhai "Bhai isko gadi karke dalu kya-->",a;
+agla dekh bhai;
+}
+warna bhai {
+bol bhai a;
+}
+}
+bol bhai "Bhai ye to shuru hote hi khatam ho gaya";
+
+bye bhai
